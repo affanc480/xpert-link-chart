@@ -1,0 +1,53 @@
+{
+  "name": "xpert-link",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.16.3",
+    "bcryptjs": "^3.0.3",
+    "exceljs": "^4.4.0",
+    "framer-motion": "^10.16.4",
+    "jose": "^5.9.6",
+    "jsonwebtoken": "^9.0.3",
+    "lucide-react": "^0.294.0",
+    "next": "16.2.12",
+    "nodemailer": "^6.9.16",
+    "pdfkit": "^0.15.1",
+    "prisma": "^6.16.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.4.19",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.5.4",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.2.35",
+    "postcss": "^8.5.24"
+  },
+  "overrides": {
+    "glob": "10.4.5",
+    "rimraf": "5.0.10"
+  },
+  "resolutions": {
+    "glob": "10.4.5",
+    "rimraf": "5.0.10"
+  },
+  "allowScripts": {
+    "sharp@0.34.5": true,
+    "unrs-resolver@1.12.2": true
+  }
+}
+
+
+
+
+
+
+
